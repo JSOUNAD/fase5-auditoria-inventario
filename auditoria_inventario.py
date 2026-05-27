@@ -1,6 +1,7 @@
 # ================================================
 # FUNDAMENTOS DE PROGRAMACIÓN - Fase 5
 # Problema 3: Auditoría de Inventario
+# Grupo: [213022_549]
 # Autor: [Jeltsin Sarasty]
 # ================================================
 
