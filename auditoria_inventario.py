@@ -1,7 +1,7 @@
 # ================================================
 # FUNDAMENTOS DE PROGRAMACIÓN - Fase 5
 # Problema 3: Auditoría de Inventario
-# Autor: [Tu Nombre Completo]
+# Autor: [Jeltsin Sarasty]
 # ================================================
 
 def calcular_pedido_inventario(matriz):
